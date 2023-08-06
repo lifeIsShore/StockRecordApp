@@ -9,3 +9,5 @@
 
 
 ![4](https://github.com/lifeIsShore/StockRecordApp/assets/124509700/2ca11706-d1f3-4bc2-bfda-7ac1047a8259) <p>Program allows you to add new item, delete existed one as well as update the items <p>
+
+<p>Note: You have to change your sql path, I used ms sql studio 19<p>
