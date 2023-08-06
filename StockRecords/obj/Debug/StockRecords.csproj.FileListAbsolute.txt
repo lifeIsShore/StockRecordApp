@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\bin\Debug\StockRecords.exe.config
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\bin\Debug\StockRecords.exe
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\bin\Debug\StockRecords.pdb
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.Form1.resources
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.Properties.Resources.resources
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.exe
+C:\Users\admin\Desktop\Ahmet\c#\StockRecords\StockRecords\obj\Debug\StockRecords.pdb
