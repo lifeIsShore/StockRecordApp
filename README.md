@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StockRecordApp</title>
-</head>
-<body>
+
     <h1>StockRecordApp</h1>
     <p>This is a simple stock record application that allows you to manage items in a database.</p>
 
@@ -36,7 +29,6 @@
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
     <h2>Contact</h2>
-    <p>Author: Your Name<br>
+    <p>Author: Ahmet<br>
     GitHub: <a href="https://github.com/lifeIsShore">https://github.com/lifeIsShore</a></p>
-</body>
-</html>
+
